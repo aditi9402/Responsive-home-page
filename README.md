@@ -1,5 +1,5 @@
 # Responsive-home-page
-A responsive home page of a website created using HTML, CSS and JavaScript.
+A responsive home page of a website created using HTML, CSS and JavaScript containing animations and parallax effect.
 
 https://github.com/aditi9402/Responsive-home-page/assets/114405540/a2ba5b3e-295b-480d-ab12-7abd96261714
 
